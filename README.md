@@ -2,6 +2,7 @@
 - 👀 I’m interested in computer science and I am into programming 
 - 🌱 I’m currently learning Linux programming and intro to programming
 - 💞️ I’m looking to collaborate on group projects or talks about programming 
+- You can reach me at james.kontos@student.judsonu.edu 
 
 <!---
 J-K19/J-K19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
